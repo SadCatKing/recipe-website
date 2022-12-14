@@ -1,0 +1,45 @@
+/* styles.css*/
+
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1602020393443-L6M0DGZK4C75DRNR7GZH/Title_Animation.gif);
+}
+
+
+h1{
+    font-size:50px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color:rgb(55, 34, 34);
+    margin-top: 42px;
+    margin-bottom: 42px;
+    margin-left: 42px;
+    margin-right: 42px;
+    background-color: red;
+
+
+
+}
+
+ul{
+    font-size:18px;
+    font-family: sans-serif;
+    font-weight: 200;
+    color:rgb(38, 38, 46);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgba(163, 232, 163, 0.541);
+}
+
+button{
+    font-size: x-small;
+    margin-right: 0px;
+    margin-top:100px;
+    margin-left: 870px;
+    margin-bottom: 666px;
+    background-color: rgb(255, 200, 0);
+    color:rgb(40, 33, 22);
+    border-color: aquamarine;
+    
+}
